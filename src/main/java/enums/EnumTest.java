@@ -7,9 +7,14 @@ public class EnumTest
 		// String to enum
 		Color color=Color.valueOf("RED");
 		System.out.println(color);
-		
+
 		// enum to string
 		String green=Color.GREEN.name();
 		System.out.println(green);
+
+		for(Color colorName:Color.values())
+		{
+			System.out.println(colorName.ordinal()+" "+colorName.name());
+		}
 	}
 }
