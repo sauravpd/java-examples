@@ -2,6 +2,11 @@ package date;
 
 import java.util.Calendar;
 
+/**
+ * Calendar example
+ * @author saurav
+ *
+ */
 public class CalendarExample1 
 {
 	public static void main(String[] args) 
