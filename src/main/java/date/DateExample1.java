@@ -2,6 +2,11 @@ package date;
 
 import java.util.Date;
 
+/**
+ * Date Example
+ * @author saurav
+ *
+ */
 public class DateExample1 
 {
 	public static void main(String[] args) 
