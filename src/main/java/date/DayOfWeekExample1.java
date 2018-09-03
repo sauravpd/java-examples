@@ -2,6 +2,11 @@ package date;
 
 import java.time.DayOfWeek;
 
+/**
+ * DayOfWeek ENUM Example
+ * @author saurav
+ *
+ */
 public class DayOfWeekExample1 
 {
 	public static void main(String[] args) 
