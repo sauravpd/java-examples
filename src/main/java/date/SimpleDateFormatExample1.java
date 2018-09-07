@@ -4,6 +4,11 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+/**
+ * SimpleDateFormat Example
+ * @author saurav
+ *
+ */
 public class SimpleDateFormatExample1 
 {
 	public static void main(String[] args) throws ParseException 
