@@ -1,7 +1,10 @@
 package Strings;
 
-import java.util.Locale;
-
+/**
+ * String Demo
+ * @author saurav
+ *
+ */
 public class StringDemo2 
 {
 	public static void main(String[] args) 
