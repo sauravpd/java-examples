@@ -1,9 +1,19 @@
 package Innerclass;
 
+/**
+ * abstract shape class
+ * @author saurav
+ *
+ */
 abstract class Shape
 {  
 	abstract void draw();  
-}  
+}
+/**
+ * AnonymousInner Class Example
+ * @author saurav
+ *
+ */
 public class AnonymousInnerClassExample1
 {
 	public static void main(String[] args) 
