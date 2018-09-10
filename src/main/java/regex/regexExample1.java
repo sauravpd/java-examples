@@ -3,6 +3,11 @@ package regex;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * regex Example1
+ * @author saurav
+ *
+ */
 public class regexExample1 
 {
 	public static void main(String[] args) 
