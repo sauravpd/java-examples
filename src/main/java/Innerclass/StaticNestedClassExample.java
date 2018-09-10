@@ -1,5 +1,10 @@
 package Innerclass;
 
+/**
+ * StaticNestedClass Example
+ * @author saurav
+ *
+ */
 public class StaticNestedClassExample 
 {
 	private static int a=10;
