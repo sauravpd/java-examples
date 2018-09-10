@@ -1,5 +1,10 @@
 package Innerclass;
 
+/**
+ * LocalInnerClass Example
+ * @author saurav
+ *
+ */
 public class LocalInnerClassExample 
 {
 	private int a=10;
