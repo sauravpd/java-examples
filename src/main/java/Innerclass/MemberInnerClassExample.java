@@ -1,5 +1,10 @@
 package Innerclass;
 
+/**
+ * MemberInnerClass Example
+ * @author saurav
+ *
+ */
 public class MemberInnerClassExample 
 {
 	private int a=10;
