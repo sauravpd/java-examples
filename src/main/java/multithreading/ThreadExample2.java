@@ -1,5 +1,10 @@
 package multithreading;
 
+/**
+ * Thread Example
+ * @author saurav
+ *
+ */
 public class ThreadExample2 implements Runnable
 {
 	@Override
