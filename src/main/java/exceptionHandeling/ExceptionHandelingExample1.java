@@ -1,5 +1,10 @@
 package exceptionHandeling;
 
+/**
+ * Exception Handeling Example
+ * @author saurav
+ *
+ */
 public class ExceptionHandelingExample1 
 {
 	public static void main(String[] args) 
