@@ -1,5 +1,10 @@
 package exceptionHandeling;
 
+/**
+ * Exception Handeling Example
+ * @author saurav
+ *
+ */
 public class ExceptionHandelingExample3 
 {
 	@SuppressWarnings("null")
