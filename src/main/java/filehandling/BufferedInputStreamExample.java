@@ -5,7 +5,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 
 /**
- * BufferedInputStream Example
+ * BufferedInputStream  Example
  * @author saurav
  *
  */
