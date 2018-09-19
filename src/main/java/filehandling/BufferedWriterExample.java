@@ -4,6 +4,11 @@ import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 
+/**
+ * BufferedWriter Example
+ * @author saurav
+ *
+ */
 public class BufferedWriterExample 
 {
 	public static void main(String[] args) 
