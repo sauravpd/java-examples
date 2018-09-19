@@ -4,6 +4,11 @@ import java.io.ByteArrayOutputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
+/**
+ * ByteArrayOutputStream Example
+ * @author saurav
+ *
+ */
 public class ByteArrayOutputStreamExample 
 {
 	public static void main(String[] args) 
