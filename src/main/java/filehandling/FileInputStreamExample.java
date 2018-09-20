@@ -1,12 +1,14 @@
 package filehandling;
 
-/**
- * FileInputStream Example
- * 
- */
+
 import java.io.FileInputStream;
 import java.io.IOException;
 
+/**
+ * FileInputStream Example
+ * @author saurav
+ *
+ */
 public class FileInputStreamExample 
 {
 	public static void main(String[] args) throws IOException 
