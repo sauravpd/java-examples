@@ -2,6 +2,11 @@ package filehandling;
 
 import java.io.Console;
 
+/**
+ * Console Example
+ * @author saurav
+ *
+ */
 public class ConsoleExample 
 {
 	public static void main(String[] args) 
