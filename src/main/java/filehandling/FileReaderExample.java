@@ -3,6 +3,11 @@ package filehandling;
 import java.io.FileReader;
 import java.io.IOException;
 
+/**
+ * FileReader Example
+ * @author saurav
+ *
+ */
 public class FileReaderExample 
 {
 	public static void main(String[] args) 
