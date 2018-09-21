@@ -4,6 +4,11 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.Scanner;
 
+/**
+ * FileOutputStream Example
+ * @author saurav
+ *
+ */
 public class FileOutputStreamExample 
 {
 	public static void main(String[] args) throws IOException 
