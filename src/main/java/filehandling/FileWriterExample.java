@@ -3,6 +3,11 @@ package filehandling;
 import java.io.FileWriter;
 import java.io.IOException;
 
+/**
+ * FileWriter Example
+ * @author saurav
+ *
+ */
 public class FileWriterExample
 {
 	public static void main(String[] args) 
