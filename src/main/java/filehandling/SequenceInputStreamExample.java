@@ -4,6 +4,11 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.SequenceInputStream;
 
+/**
+ * SequenceInputStream Example
+ * @author saurav
+ *
+ */
 public class SequenceInputStreamExample 
 {
 	public static void main(String[] args) 
