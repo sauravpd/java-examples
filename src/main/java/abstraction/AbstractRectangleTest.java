@@ -1,5 +1,10 @@
 package abstraction;
 
+/**
+ * AbstractRectangleTest
+ * @author saurav
+ *
+ */
 public class AbstractRectangleTest 
 {
 	public static void main(String[] args) 
