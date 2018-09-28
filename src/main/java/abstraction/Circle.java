@@ -1,5 +1,10 @@
 package abstraction;
 
+/**
+ * Circle class
+ * @author saurav
+ *
+ */
 public class Circle extends Shape 
 {
 	@Override
