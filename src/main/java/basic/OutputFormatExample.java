@@ -2,6 +2,11 @@ package basic;
 
 import java.util.Scanner;
 
+/**
+ * OutputFormatExample
+ * @author saurav
+ *
+ */
 public class OutputFormatExample 
 {
 	public static void main(String[] args)
