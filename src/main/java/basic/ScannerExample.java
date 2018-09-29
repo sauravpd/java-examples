@@ -2,6 +2,11 @@ package basic;
 
 import java.util.Scanner;
 
+/**
+ * ScannerExample
+ * @author saurav
+ *
+ */
 public class ScannerExample 
 {
 	public static void main(String[] args) 
