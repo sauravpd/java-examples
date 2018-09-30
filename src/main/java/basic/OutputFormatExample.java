@@ -3,7 +3,7 @@ package basic;
 import java.util.Scanner;
 
 /**
- * OutputFormatExample
+ * OutputFormatExample	
  * @author saurav
  *
  */
