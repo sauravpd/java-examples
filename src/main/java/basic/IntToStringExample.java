@@ -1,7 +1,11 @@
 package basic;
 
 import java.util.Scanner;
-
+/**
+ * IntToStringExample
+ * @author saurav
+ *
+ */
 public class IntToStringExample 
 {
 	public static void main(String[] args) 
