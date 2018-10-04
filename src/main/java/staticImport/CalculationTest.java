@@ -2,6 +2,12 @@ package staticImport;
 
 import java.util.Scanner;
 import static staticImport.Calulation.add;
+
+/**
+ * CalculationTest static import example
+ * @author saurav
+ *
+ */
 public class CalculationTest 
 {
 	public static void main(String[] args) 
