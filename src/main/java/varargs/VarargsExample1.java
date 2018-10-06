@@ -1,5 +1,10 @@
 package varargs;
 
+/**
+ * VarargsExample1
+ * @author saurav
+ *
+ */
 public class VarargsExample1 
 {
 	public static void main(String... args) 
