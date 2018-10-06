@@ -1,5 +1,10 @@
 package varargs;
 
+/**
+ * AccessVarargExample
+ * @author saurav
+ *
+ */
 public class AccessVarargExample 
 {
 	public void printvalue(int index,int ... numbers)
