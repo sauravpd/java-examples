@@ -1,5 +1,10 @@
 package varargs;
 
+/**
+ * VarargsExample1
+ * @author saurav
+ *
+ */
 public class VarargsExample2 
 {
 	// Both can't be compiled together
