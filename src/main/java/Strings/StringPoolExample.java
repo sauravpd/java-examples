@@ -1,5 +1,10 @@
 package Strings;
 
+/**
+ * StringPoolExample
+ * @author saurav
+ *
+ */
 public class StringPoolExample 
 {
 	public static void main(String[] args) 
