@@ -1,5 +1,10 @@
 package Strings;
 
+/**
+ * StringBuilderCapacityExample
+ * @author saurav
+ *
+ */
 public class StringBuilderCapacityExample 
 {
 	public static void main(String[] args) {
