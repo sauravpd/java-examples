@@ -1,5 +1,9 @@
 package Strings;
-
+/**
+ * StringBuilderExample
+ * @author saurav
+ *
+ */
 public class StringBuilderExample 
 {
 	public static void main(String[] args) {
