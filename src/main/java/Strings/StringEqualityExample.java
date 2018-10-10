@@ -1,5 +1,10 @@
 package Strings;
 
+/**
+ * StringEqualityExample
+ * @author saurav
+ *
+ */
 public class StringEqualityExample 
 {
 	public static void main(String[] args) 
