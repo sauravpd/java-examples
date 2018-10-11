@@ -1,5 +1,10 @@
 package Strings;
 
+/**
+ * 	StringConcatenationExample
+ * @author saurav
+ *
+ */
 public class StringConcatenationExample 
 {
 	public static void main(String[] args) 
