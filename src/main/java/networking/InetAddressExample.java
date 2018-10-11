@@ -2,6 +2,11 @@ package networking;
 
 import java.net.InetAddress;
 
+/**
+ * InetAddressExample
+ * @author saurav
+ *
+ */
 public class InetAddressExample 
 {
 	public static void main(String[] args) 
