@@ -1,5 +1,10 @@
 package Interface;
 
+/**
+ * Circle
+ * @author saurav
+ *
+ */
 public class Circle implements Shape
 {
 	private double radius;
