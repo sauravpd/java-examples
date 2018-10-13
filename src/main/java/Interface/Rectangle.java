@@ -1,5 +1,10 @@
 package Interface;
 
+/**
+ * Rectangle
+ * @author saurav
+ *
+ */
 public class Rectangle 
 {
 	private double length;
