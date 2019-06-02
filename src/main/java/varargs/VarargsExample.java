@@ -14,11 +14,11 @@ public class VarargsExample
 	/*
 	 * variable argument type int of the method walk3 must be the last parameter
 	 */
-	public void test3(int... nums, int start) { }
+//	public void test3(int... nums, int start) { }
 
 	// COMPILE ERROR
 	/*
 	 * Must be once in parameter list
 	 */
-	public void test4(int... start, int... nums) { }
+//	public void test4(int... start, int... nums) { }
 }
