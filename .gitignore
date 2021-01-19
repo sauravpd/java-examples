@@ -1,4 +1,8 @@
 .settings
+
 .classpath
+
+*.class
+bin/
 /target
 .project
