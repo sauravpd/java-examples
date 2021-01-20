@@ -3,6 +3,11 @@ package Strings;
 import java.util.HashMap;
 import java.util.Scanner;
 
+/**
+ *  First Unique Character in a String
+ * @author saurav
+ *
+ */
 public class StringProgram2 {
 	public static void main(String[] args) 
 	{
