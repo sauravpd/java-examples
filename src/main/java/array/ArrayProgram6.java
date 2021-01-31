@@ -3,7 +3,7 @@ package array;
 import java.util.Arrays;
 
 /**
- * 
+ * move Zeroes to left
  * @author saurav
  *
  */
