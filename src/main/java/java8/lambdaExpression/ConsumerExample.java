@@ -10,7 +10,6 @@ public class ConsumerExample {
 			System.out.println(str.toLowerCase());
 
 		};
-
 		consumer.accept("test");
 		consumer.accept("teststr");
 	}
