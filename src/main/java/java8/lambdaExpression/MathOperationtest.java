@@ -1,5 +1,10 @@
 package java8.lambdaExpression;
 
+/**
+*
+*Math Operation test class (Add / Sub/ Mult / Div) 
+*
+*/
 public class MathOperationtest 
 {
 	public static void main(String[] args)
@@ -15,7 +20,8 @@ public class MathOperationtest
 		System.out.println(caculate(mult));
 	}
 	
-	private static int caculate(MathOperation op) {
+	private static int caculate(MathOperation op) 
+	{
 		return op.operate(10,10);
 	}
 }
