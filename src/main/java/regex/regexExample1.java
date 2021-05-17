@@ -26,6 +26,7 @@ public class regexExample1
 		System.out.println(Pattern.matches("[abc]", "c")); // true
 
 		System.out.println(Pattern.matches("[a-zA-Z]", "A"));// true
+		System.out.println(Pattern.matches("[a-zA-Z]{2}", "aA"));// true
 
 		//a-ce-f
 		System.out.println(Pattern.matches("[a-c[e-f]]","d")); //false
